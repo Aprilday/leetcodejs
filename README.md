@@ -1,5 +1,6 @@
 # leetcodejs
 ### leetcode题目js实现
+#### 本人前端开发，算法在逐步学习中，会一直更新解题的代码和思路
 
 2.<a href="https://github.com/Aprilday/leetcodejs/blob/master/两数相加_2.md" target="_blank">两数相加</a>
 
