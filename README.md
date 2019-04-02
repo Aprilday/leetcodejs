@@ -30,5 +30,7 @@
 
 20.[有效的括号](https://github.com/Aprilday/leetcodejs/blob/master/1-100/20.有效的括号.md)
 
+21.[合并两个有序链表](https://github.com/Aprilday/leetcodejs/blob/master/1-100/21.合并两个有序链表.md)
+
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
