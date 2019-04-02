@@ -28,5 +28,7 @@
 
 19.[删除链表的倒数第N个节点](https://github.com/Aprilday/leetcodejs/blob/master/1-100/19.删除链表的倒数第N个节点.md)
 
+20.[有效的括号](https://github.com/Aprilday/leetcodejs/blob/master/1-100/20.有效的括号.md)
+
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
