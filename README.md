@@ -32,5 +32,7 @@
 
 21.[合并两个有序链表](https://github.com/Aprilday/leetcodejs/blob/master/1-100/21.合并两个有序链表.md)
 
+26.[删除排序数组中的重复项](https://github.com/Aprilday/leetcodejs/blob/master/1-100/26.删除排序数组中的重复项.md)
+
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
