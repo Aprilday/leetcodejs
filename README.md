@@ -38,5 +38,7 @@
 
 27.[移除元素](https://github.com/Aprilday/leetcodejs/blob/master/1-100/27.移除元素.md)
 
+28.[实现strStr()](https://github.com/Aprilday/leetcodejs/blob/master/1-100/28.实现strStr().md)
+
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
