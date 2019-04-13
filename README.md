@@ -36,5 +36,7 @@
 
 26.[删除排序数组中的重复项](https://github.com/Aprilday/leetcodejs/blob/master/1-100/26.删除排序数组中的重复项.md)
 
+27.[移除元素](https://github.com/Aprilday/leetcodejs/blob/master/1-100/27.移除元素.md)
+
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
