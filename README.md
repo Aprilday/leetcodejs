@@ -40,6 +40,8 @@
 
 28.[实现strStr()](https://github.com/Aprilday/leetcodejs/blob/master/1-100/28.实现strStr().md)
 
+34.[在排序数组中查找元素的第一个和最后一个位置](https://github.com/Aprilday/leetcodejs/blob/master/1-100/34.在排序数组中查找元素的第一个和最后一个位置.md)
+
 35.[搜索插入位置](https://github.com/Aprilday/leetcodejs/blob/master/1-100/35.搜索插入位置.md)
 
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
