@@ -48,3 +48,6 @@
 
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
+46.[全排列](https://github.com/Aprilday/leetcodejs/blob/master/1-100/46.全排列.md)
+
+
