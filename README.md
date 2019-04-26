@@ -46,6 +46,8 @@
 
 35.[搜索插入位置](https://github.com/Aprilday/leetcodejs/blob/master/1-100/35.搜索插入位置.md)
 
+36.[有效的数独](https://github.com/Aprilday/leetcodejs/blob/master/1-100/36.有效的数独.md)
+
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
 46.[全排列](https://github.com/Aprilday/leetcodejs/blob/master/1-100/46.全排列.md)
