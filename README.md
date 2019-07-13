@@ -48,8 +48,12 @@
 
 36.[有效的数独](https://github.com/Aprilday/leetcodejs/blob/master/1-100/36.有效的数独.md)
 
+39.[组合总和](https://github.com/Aprilday/leetcodejs/blob/master/1-100/39.组合总和.md)
+
 42.[接雨水](https://github.com/Aprilday/leetcodejs/blob/master/1-100/42.接雨水.md)
 
 46.[全排列](https://github.com/Aprilday/leetcodejs/blob/master/1-100/46.全排列.md)
+
+47.[全排列II](https://github.com/Aprilday/leetcodejs/blob/master/1-100/47.全排列II.md)
 
 
